@@ -1,0 +1,49 @@
+/* Aula inicial :D */
+/* exeplo de como fazer um comentario em html */    
+body {
+    background-image:url('https://i.stack.imgur.com/XXbBG.png'
+   ); 
+   background-size: auto 100vh;
+   font-family: arial;
+   height: 100vh;
+   }
+   
+   .menu{
+    background-color: white;
+   }
+   
+   .menu ul {
+     display: flex;
+     justify-content: space-around;
+   }
+   
+   .menu li{
+     list-style: none;
+   }
+   
+   a {
+     color: black;
+      text-decoration: none;
+   }
+   
+   a:hover {
+      text-decoration: underline; 
+   }
+   .site-subtitle,
+   .site-title {
+     color: purple;
+     text-align: center;
+   }   
+   
+   .site-subtitle {
+    font-style: italic;
+   }
+   
+                    
+   
+     
+   
+   
+   
+   
+   
